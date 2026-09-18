@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(darkmagenta, #ff008c);
+    background-size: 1px 1200px;
+}
+
+body .bg{
+    height: 300px;
+}
+
+.form-login{
+    border-radius: 5px;
+}
+
+.formX {
+    width: 600px;
+}

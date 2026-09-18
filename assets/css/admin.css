@@ -1,0 +1,23 @@
+body{
+    background-color: whitesmoke;
+}
+
+.aktifitas .title b{
+    font-size: large;
+    color: #ff008c;
+}
+.isi-aktifitas span{
+    width: 100px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px 0;
+}
+.isi-aktifitas img{
+    display: inline-block;
+    width: 70px;
+    margin: 0 auto;
+}
+
+.formX {
+    width: 600px;
+}

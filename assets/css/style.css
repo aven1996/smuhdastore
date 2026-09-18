@@ -1,0 +1,201 @@
+body{
+    background-color: whitesmoke;
+}
+.header{ 
+    position: relative;
+    z-index: 9999;
+}
+
+.header span{ 
+    font-size: 12px;
+}
+
+.header .item-header-1{
+    padding: 8px 32px;
+    background: darkcyan;
+}
+
+.header .item-header-1 span{
+    color: white;
+}
+
+.header .item-header-1 span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.header .item-header-1 img{
+    width: 14px;
+}
+
+.header .item-header-2{
+    padding: 8px 32px;
+    background: darkcyan;
+    box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.07);
+}
+
+.header .item-header-2 .img-logo{
+    width: 100px;
+}
+
+.header .item-header-2 .text-kategory{
+    padding: 2px 5px;
+}
+
+.header .item-header-2 .text-kategory:hover{
+    background-color: #f3f4f5 !important;
+    cursor: pointer !important;
+    color:  #ff008c;
+    border-radius: 5px;
+}
+
+.header .item-header-2 span{
+    color: #929292;
+}
+
+.header .item-header-2 .wrap-search{
+    position: relative;
+    background-color: white;
+    width: 100%;
+    height: 35px;
+}
+
+.header .item-header-2 .wrap-search .img-search,
+.header .item-header-2 .wrap-shop .img-shop{
+    width: 18px;
+}
+
+.header .item-header-2 .wrap-search .form-control{
+    background-color: transparent;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border: 1px solid #cdcdcd;
+    z-index: 1;
+}
+
+.header .item-header-2 .wrap-search .form-control::placeholder{
+    color: #cdcdcd;
+    font-size: 14px;
+}
+
+.header .item-header-2 .wrap-search .form-control:focus{
+    box-shadow: none;
+    border: 1px solid #ff008c;
+}
+
+.header .item-header-2 .wrap-search .wrap-icon-search{
+    background-color: transparent;
+    position: absolute;
+    right: 10px;
+    height: 100%;
+}
+.header .item-header-2 .wrap-search .wrap-icon-search:hover{
+    cursor: pointer;
+}
+
+.header .item-header-2 .wrap-shop{
+    position: relative;
+    background-color: transparent;
+    height: max-content;
+    width: max-content;
+    border-radius: 3px;
+    transition-duration: 0.5s;
+}
+.header .item-header-2 .wrap-shop:hover{
+    cursor: pointer;
+}
+.header .item-header-2 .btn-masuk{
+    background-color:  #ff008c;
+    border: none;
+}
+
+.header .item-header-2 .btn-masuk:hover{
+    background-color: #e90080;
+}
+.header .item-header-2 .btn-daftar{
+    color: #ff008c;
+}
+
+.modal{
+    z-index: 9999;
+}
+.modal-content{
+    top: 56px;
+    padding: 19px;
+    width: 100%;
+    border-radius: 0;
+    border: none;
+}
+
+.m-c-head span{
+    color: #929292;
+}
+
+.m-c-head .title{
+    color: rgb(82, 82, 82);
+}
+
+.m-c-head .btn-hapus{
+    cursor: pointer;
+}
+
+.m-c-head .opt-hist-search:hover{
+    background-color: #f3f4f5;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+.fitur span{
+    width: 70px;
+    padding: 5px;
+    margin: 0 3px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.fitur span:hover{
+    background: whitesmoke;
+    cursor: pointer;
+}
+
+.fitur span b{
+    margin-top: 5px;
+    font-weight: normal;
+    line-height: 15px;
+    font-size: 14px;
+}
+.fitur .img-fitur{
+    width: 50px;
+    margin: 0 auto;
+}
+
+
+.produk-jualcepat .more{
+    font-size: 14px;
+    color: #929292;
+}
+
+.produk-jualcepat .cart-produk-jualcepat{
+    width: 150px;
+    margin-right: 10px;
+}
+
+.produk-jualcepat .cart-produk-jualcepat .cov-img-cart{
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+}
+.produk-jualcepat .cart-produk-jualcepat img{
+    width: 100%;
+}
+
+.progress-bar {
+    background-color:  #f0f0f0;
+}
+
+
+.container-full {
+    width: 100%;
+}

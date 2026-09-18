@@ -1,0 +1,28 @@
+.container{
+    border-radius: 5px;
+    position: relative;
+}
+.container .cov-poto{
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.container .cov-poto .img-poto{
+    width: 100%;
+}
+
+.container div{
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.container nav .img-logo{
+    width: 120px;
+}
+.container nav span{
+    font-size: 36px;
+    color: #ff008c;
+}
+
+.container .item:hover span{
+    color: seagreen;
+}

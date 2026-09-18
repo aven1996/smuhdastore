@@ -1,0 +1,239 @@
+.cart-produk-jualcepat b{
+    font-weight: normal;
+    color: #ff008c;
+    font-size: large;
+}
+.cart-produk-jualcepat .cov-img-cart{
+    background-color: white;
+}
+.produkpromo .more{
+    font-size: 14px;
+    color: #929292;
+}
+
+.produkpromo .cart-produk-jualcepat{
+    width: 150px;
+    height: 250px;
+    margin-right: 10px;
+    background-color: white;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    transition: 0.5s;
+}
+.produkpromo .cart-produk-jualcepat:hover{
+    transform: scale(1.05);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+.produkpromo .cart-produk-jualcepat span{
+    font-size: small;
+    margin: 0 5px;
+    height: 50px;
+    line-height: 14px;
+}
+
+.produkpromo .cart-produk-jualcepat b{
+    margin: 0 5px;
+    color: #ff008c;
+    font-size: 15px;
+}
+.produkpromo .cart-produk-jualcepat .diskon{
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: gold;
+    border-bottom-left-radius: 5px;
+}
+.produkpromo .cart-produk-jualcepat .diskon b{
+    font-weight: bold;
+}
+
+.produkpromo .cart-produk-jualcepat b.harganormal{
+    font-size: small;
+    color: #929292;
+    text-decoration: line-through;
+}
+
+.produkpromo .cart-produk-jualcepat .cov-img-cart{
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+}
+
+
+.produkpromo .cart-produk-jualcepat img{
+    width: 100%;
+}
+
+.produkrekomendasi .more{
+    font-size: 14px;
+    color: #929292;
+}
+
+.produkrekomendasi .cart-produk-jualcepat{
+    width: 175px;
+    height: 300px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background-color: white;
+    overflow: hidden;
+    position: relative;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    border-bottom: 2px solid transparent;
+}
+
+
+.produkrekomendasi .cart-produk-jualcepat b{
+    margin: 0 5px;
+    color: #ff008c;
+    font-size: 15px;
+}
+
+.produkrekomendasi .cart-produk-jualcepat .diskon{
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: gold;
+    border-bottom-left-radius: 5px;
+}
+.produkrekomendasi .cart-produk-jualcepat .diskon b{
+    font-weight: bold;
+}
+
+.produkrekomendasi .cart-produk-jualcepat b.harganormal{
+    font-size: small;
+    color: #929292;
+    text-decoration: line-through;
+}
+
+.produkrekomendasi .cart-produk-jualcepat .cov-img-cart{
+    width: 100%;
+    height: 180px;
+    overflow: hidden;
+    margin-bottom: 3px;
+}
+
+.produkrekomendasi .cart-produk-jualcepat img{
+    width: 100%;
+}
+
+.produkrekomendasi .cart-produk-jualcepat span.nama_produk{
+    display: inline-block;
+    font-size: small;
+    margin: 0 5px;
+    height: 35px;
+    line-height: 14px;
+}
+
+.produkrekomendasi .cart-produk-jualcepat .harga{
+    text-align: left;
+}
+
+.produkrekomendasi .cart-produk-jualcepat .lok_penjual{
+    font-size: 12px;
+    text-align: right;
+    position: absolute;
+    right: 10px;
+    bottom: 15px;
+    height: 10px;
+    color: #929292;
+}
+
+
+
+
+.produkterlaris .more{
+    font-size: 14px;
+    color: #929292;
+}
+
+.produkterlaris .cart-produk-jualcepat{
+    width: 350px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background-color: white;
+    overflow: hidden;
+    position: relative;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    border-bottom: 2px solid transparent;
+}
+
+.produkterlaris .cart-produk-jualcepat:hover{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+}
+
+.produkterlaris .cart-produk-jualcepat b{
+    margin: 0 5px;
+    color: #ff008c;
+    font-size: 15px;
+}
+
+.produkterlaris .cart-produk-jualcepat .cov-img-cart{
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    margin-bottom: 3px;
+}
+
+.produkterlaris .cart-produk-jualcepat img{
+    width: 100%;
+}
+
+.produkterlaris .cart-produk-jualcepat span{
+    width: 100%;
+    display: inline-block;
+    font-size: 15px;
+    height: 35px;
+    background-color: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    bottom: 0;
+    font-weight: bold;
+    color: white;
+}
+
+
+.footer1 img{
+    width: 100px;
+}
+
+.footer1 h5{
+    font-weight: bold;
+    color: #ff008c;
+}
+
+.footer1 span{
+    font-size: small;
+    color: #929292;
+}
+
+.footer1 .item-foot{
+    width: 30%;
+}
+
+
+.footer2 img{
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+.footer2 span{
+    font-size: small;
+    color: #929292;
+    line-height: 32px;
+}
+.footer2 .item-foot2{
+    width: 30%;
+}
+
+.footer2 .item-foot2 form input::placeholder, .footer2 .item-foot2 form textarea::placeholder{
+    font-size: small;
+    color: #929292;
+}
+
+.footer3 span{
+    font-size: small;
+    color: #929292;
+}

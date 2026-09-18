@@ -1,0 +1,10 @@
+29-09-2023
+fix bug sebelumnya
+
+29-05-2021-------developer--------------
+@detil_produk-> gambar produk terlalu besar dan tidak terposisi dengan baik saat mode desktop;
+
+@lihat_toko_jualcepat-> masih tampil produk jualcepat padahal promo itu sudah exp; produk yg bgn jual cepat saat diklik menuju @detil_produk tapi yang tampil bukan produk promo;
+
+11-04-2025
+saat di katalog produk, jika memilih urutkan diskon atau sebelahnya tidak bisa memilih pilihan urutkan lain
